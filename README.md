@@ -13,7 +13,7 @@ GNS3 Home lab: Network configuration with FRR routing, Zabbix monitoring and Gra
 
 ## Project phases
 
-- [ ] Phase 1 - GNS3 topology with FRR and OSPF
+- [x] [Phase 1 - GNS3 topology with FRR and OSPF](docs/phase1-topology.md)
 - [ ] Phase 2 - Monitoring with Zabbix
 - [ ] Phase 3 - Grafana dashboards
 - [ ] Phase 4 - NOC incident simulation
